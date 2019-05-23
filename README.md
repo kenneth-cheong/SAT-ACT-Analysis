@@ -1,6 +1,7 @@
 # Problem Statement
 There has been a change several changes in the participation rates in both the SAT and ACT exams between years 2017 and 2018. This report seeks to explore the reasons for the these changes within the U.S categorized by states. The report also aims to make recommendations to the College Board for strategies to improve participation rates in Ohio.
 
+
 # Executive Summary
 
 ### 2017 Data Import & Cleaning
@@ -29,6 +30,7 @@ Focus on collaboration with state education departments, colleges and high schoo
 More research can be done on university admissions criteria in the U.S, SAT test centers and their usage to helps understand how to further drive participation rates. 
 
 
+
 # Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -42,6 +44,7 @@ More research can be done on university admissions criteria in the U.S, SAT test
 |**act_reading**|*float*|ACT|The average reading score in a maximum score of 36.|
 |**act_science**|*float*|ACT|The average science score in a maximum score of 36.|
 |**act_composite**|*float*|ACT|The average score calculated by the 4 ACT scores of each state.|
+
 
 # Conclusions and Recommendations
 #### Key Takeaways
